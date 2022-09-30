@@ -51,5 +51,5 @@
 ## My Projects
 
 **CSC Renders**
-<a href='https://csc-renders.vercel.app/'>![This is an image](csc-arquitectura.JPG)</a>
+<a target="_blank" href='https://csc-renders.vercel.app/'>![This is an image](csc-arquitectura.JPG)</a>
 <p>Web created for CSC rendering studio.</p>
