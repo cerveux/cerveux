@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-cerveux.vercel.app/](https://portfolio-cerveux.vercel.app/)
+- 👨‍💻 All of my projects will be available at [https://portfolio-cerveux.vercel.app/](https://portfolio-cerveux.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, MongoDB, NodeJS**
 
