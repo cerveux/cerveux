@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my own portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently at the Oracle ONE program
 
 - 👨‍💻 All of my projects will be available at [https://portfolio-cerveux.vercel.app/](https://portfolio-cerveux.vercel.app/)
 
