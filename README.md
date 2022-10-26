@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently at the Oracle ONE program
 
-- 👨‍💻 My projects are available at [https://cerveux.vercel.app/](https://portfolio-cerveux.vercel.app/)
+- 👨‍💻 My projects are available at [https://cerveux.vercel.app/](https://cerveux.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, MongoDB, NodeJS**
 
