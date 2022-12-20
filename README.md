@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerveux&label=Profile%20views&color=0e75b6&style=flat" alt="cerveux" /> </p>
 <br>
 
-- 🔭 I’m currently working on **my own portfolio**
+- 🔭 I’m currently working on No-Country projects
 
 - 🌱 I’m currently at the Oracle ONE program
 
