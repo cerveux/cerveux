@@ -52,10 +52,19 @@
 
 **Portfolio**
 <a target="_blank" href='https://cerveux.vercel.app/'>![This is an image](Portfolio.JPG)</a>
-<p>My own Portfolio</p>
-
+<p>My own Portfolio made in React.js</p>
 
 
 **CSC Renders**
 <a target="_blank" href='https://csc-renders.vercel.app/'>![This is an image](csc-arquitectura.JPG)</a>
 <p>Web created for CSC rendering studio.</p>
+
+
+**Mercado Libre API practice**
+<a target="_blank" href='https://meli-restful-front.vercel.app/'>![This is an image](screenshot-1.jpg)</a>
+<p>An API´s practice using Meli´s own API. It has a small, restful API as background that fetches the first 10 items that match the search query</p>
+
+
+**Dispersión**
+<a target="_blank" href='https://dispersion.vercel.app/'>![This is an image](dispersion.JPG)</a>
+<p>This is a Web App we made at No-Country for a Printing company. I was in charge of the Front-End</p>
