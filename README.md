@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on No-Country projects
 
-- 🌱 I’m currently at the Oracle ONE program
+- 🌱 I’m currently teaching myself Next.js and TypeScript
 
 - 👨‍💻 My projects are available at [https://cerveux.vercel.app/](https://cerveux.vercel.app/)
 
